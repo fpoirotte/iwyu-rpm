@@ -12,7 +12,7 @@ Summary:        C/C++ source files \#include analyzer based on clang
 
 License:        NCSA
 URL:            https://github.com/%{owner}/%{longname}
-Source0:        https://github.com/%{owner}/%{longname}/archive/refs/tags/include-what-you-use-%{version}.tar.gz
+Source0:        https://github.com/%{owner}/%{longname}/archive/refs/tags/%{version}.tar.gz
 
 BuildRequires:  cmake
 BuildRequires:  clang-devel >= 12.0
